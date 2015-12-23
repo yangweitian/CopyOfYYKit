@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  YYModelVC.h
 //  YYKit_ywt
 //
 //  Created by YangWeitian on 15/12/23.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface YYModelVC : UIViewController
 
 @end
-
