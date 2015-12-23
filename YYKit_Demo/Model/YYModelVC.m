@@ -19,7 +19,7 @@
 @end
 
 static void SimpleObjectExamole() {
-    YYBook *book = [YYBook modelWithJSON:@""];
+//    YYBook *book = [YYBook modelWithJSON:@""];
 }
 
 
